@@ -1,0 +1,323 @@
+@START:Expressions	English	Português	Español
+@START:ShortNames	en	pt	es
+@START:LangType	Dev	Dev	Fan
+			
+@Misc			
+<yes>	Yes	Sim	Si
+<no>	No	Não	No
+<ok>	OK	OK	Ok
+<start>	Start	Iniciar	Iniciar
+<failure>	Failure	Falha	Error
+<disabled>	Disabled	Inativo	Desactivado
+<enabled>	Enabled	Ativo	Activado
+<cancel>	Cancel	Cancelar	Cancelar
+			
+@MenuExpressions			
+<startGame>	Start game	Começar partida	iniciar partida
+<connectToGame>	Connect to game	Conectar a jogo	Conectarse a una partida
+<options>	Options	Opções	Opciones
+<credits>	Credits	Créditos	Créditos
+<mainMenu>	Main Menu	Menu Principal	Menú Principal
+<quit>	Quit	Sair	Salir
+<play>	Play game	Jogar	Jugar
+<playDescription>	Play an online or single player match	Jogar uma partida sozinho ou online	Jugar una partida online o solo
+<quitDescription>	Quit to desktop	Sair para a área de trabalho	Salir al Escritorio
+<back>	Back	Voltar	Volver
+<backToMainMenu>	Back to main menu	Voltar para o menu principal	Volver al menú principal
+<controls>	Controls	Controles	Controles
+<controlsDescription>	Adjust keyboard and mouse settings	Ajustar opções de teclado e mouse	Configuración de Mouse y Teclado
+<audio>	Audio	Áudio	Sonido
+<audioDescription>	Adjust audio volume and language	Ajustar volume e idioma	Ajustes de Volumen e Idioma
+<graphics>	Graphics	Gráficos	Gráficos
+<graphicsDescription>	Choose the graphical quality for optimal performance	Escolha a qualidade dos efeitos gráficos	Elegir calidad gráfica para obtener la mejor experiencia
+<optionsDescription>	Configure your game	Configure seu jogo	Configuración de la partida
+<creditsDescription>	About the developer	Informações sobre o desenvolvedor	Sobre el desarrollador
+<startSingle>	Start singleplayer	Jogar sozinho	Jugar Solo
+<startSingleDescription>	Starts a single player match	Inicia uma partida solo	Empezar una partida solo
+<startMultiplayer>	Start multiplayer	Criar partida online	Multijugador
+<startMultiDescription>	Hosts an online multiplayer match	Hospeda uma partida multiplayer online	Crear una partida multijugador
+<connect>	Connect to game	Conectar a partida	Conectarse a una partida
+<toConnect>	Connect	Conectar	Conectarse
+<connectDescription>	Connects to a multiplayer game	Conecta a uma partida multiplayer online	Conectarse a una partida multijugador
+<serverSettings>	Server settings	Configurações do servidor	Configuración del Servidor
+<confirmAction>	Confirm your action	Confirme a ação	Confirmar
+<sureQuitGame>	Are you sure you want to quit the game?	Tem certeza de que quer sair do jogo?	¿Estás seguro de querer salir del juego?
+<sureQuitMatch>	Are you sure you want to leave the match?	Tem certeza de que quer sair da partida?	¿Estás seguro de querer abandonar la partida?
+<lobby>	Lobby	Sala de espera	Sala de Espera
+<small>	Small	Pequeno	Pequeño
+<big>	Big	Grande	Grande
+<ready>	Ready	Pronto	Listo
+<menu>	Menu	Menu	Menú
+<serverPanel>	Server panel	Painel do servidor	Panel del Servidor
+<resume>	Resume	Resumir	Continuar
+<backToLobby>	Back to lobby	Voltar para o lobby	Volver a la sala de espera
+<welcomeToZB2>	Welcome to Zumbi Blocks 2	Bem vindo ao Zumbi Blocks 2	Bienvenido a Zumbi Blocks 2
+<chooseNameAndLang>	Choose your name, and language:	Escolha o seu nome e idioma:	Elija su nombre e idioma:
+<playerName>	Player Name	Nome	Nombre
+<language>	Language	Idioma	Idioma
+<nameTooShort>	name is too short	nome muito curto	el nombre es muy corto
+<confirm>	Confirm	Confirmar	Confirmar
+<createdBy>	A game made by Adrian KS	Jogo criado por Adrian KS	Juego creado por Adrian KS
+<enterToContinue>	Press ENTER to continue	Tecle ENTER para continuar	Presione ENTER para continuar
+<rotateItem>	Rotate item	Girar item	Rotar objeto
+<suicide>	Suicide	Suicídio	Suicidio
+<sureSuicide>	Are you sure you want to kill yourself?	Tem certeza de que quer se matar?	¿Estás seguro de que quieres suicidarte?
+<reviveFriend>	Revive friend	Reviver amigo	Revivir amigo
+<splitStack>	Split stack	Dividir items	Dividir la pila
+<unloadAmmo>	Unload ammo	Descarregar munição	Descargar munición
+<dropItem>	Drop	Descartar	Soltar
+<split>	Split	Dividir	Dividir
+<warning>	Warning	Aviso	Aviso
+<steamFeaturesWarning>	Specific steam features, like steam networking, achievements, and steam workshop support will be added on the upcoming updates. For now, to play online, you will need to use a VPN.	Funcionalidades específicas da Steam, como multiplayer, conquistas, e steam workshop vão ser adicionados nas atualizações futuras. Por enquanto, para jogar online, você precisa usar uma VPN.	En las próximas actualizaciones se agregarán características específicas de steam, como redes de steam, logros y steam workshop. Por ahora, para jugar online, necesitarás usar una VPN.
+			
+@LoadingMSG			
+<generatingMap>	Generating map ...	Gerando mapa ...	Generando mapa ...
+<returningToLobby>	Returning to lobby ...	Voltando ao lobby ...	Volviendo a la sala de espera ...
+<connecting>	Connecting ...	Conectando ...	Conectando ...
+<syncData>	Synchronizing data ...	Sincronizando dados ...	Sincronizando datos ...
+<startingServer>	Starting server ...	Iniciando server ...	Iniciando servidor ...
+<startingGame>	Starting game	Iniciando partida	Iniciando partida
+			
+@Graphics			
+<graphicsSettings>	Graphics settings	Gráficos	Gráficos
+<resolution>	Resolution	Resolução	Resolución
+<antiAliasing>	Anti Aliasing	Anti Serrilhado	Anti Aliasing
+<shadows>	Shadows	Sombras	Sombras
+<low>	Low	Baixo	Bajo
+<high>	High	Alto	Alto
+<shadowResolution>	Shadow Resolution	Resolução de Sombra	Calidad de Sombras
+<shadowDistance>	Shadow Distance	Distância de Sombra	Distancia de Sombras
+<softShadows>	Soft Shadows	Suavidade de Sombra	Suavizado de Sombras
+<rendering>	Rendering	Renderização	Renderizado
+<animationDetail>	Animations	Animações	Animaciones
+<drawDistance>	Draw Distance	Distância de Render	Distancia de Renderizado
+<postProcessing>	Post Processing	Pós Processamento	Post Procesamiento
+<ambientOcclusion>	SSAo	SSAO	SSAO
+<bloom>	Bloom	Bloom	Bloom
+<colorGrading>	Color Grading	Correção de Cor	Escala de Color
+<depthOfField>	Depth of Field	Profundidade de Campo	Profundidad de Campo
+<motionBlur>	Motion Blur	Desfoque de Movimento	Desenfoque de Movimiento
+<vsync>	V-Sync	V-Sync	V-Sync
+<window>	Window	Janela	Ventana Completa
+<windowed>	Windowed	Janela	Ventana
+<fullscreen>	Fullscreen	Tela-Cheia	Pantalla completa
+<apply>	Apply	Aplicar	Aplicar
+<fpsLimit>	FPS Limit	Limite de FPS	Límite de FPS
+<displayScreen>	Display Screen	Tela de Exibição	Pantalla de Visualización
+<screen>	Screen	Tela	Pantalla
+			
+@Controls			
+<MoveForward>	Move forward	Frente	Avanzar
+<MoveBack>	Move back	Trás	Retroceder
+<MoveLeft>	Move left	Esquerda	Izquierda
+<MoveRight>	Move right	Direita	Derecha
+<Jump>	Jump	Pular	Saltar
+<Run>	Run	Correr	Correr
+<Shoot>	Shoot	Atirar	Disparar
+<Aim>	Aim	Mirar	Apuntar
+<SelectPrimary>	Select main gun	Arma principal	Arma principal
+<SelectSecondary>	Select pistol	Pistola	Pistola
+<SelectMelee>	Select melee	Corpo a corpo	Cuerpo a cuerpo
+<Holster>	Holster	Guardar item	Guardar objeto
+<Inventory>	Inventory	Inventário	Inventario
+<Reload>	Reload	Recarregar	Recargar
+<Interact>	Interact	Interagir	Interactuar
+<ChangeCameraShoulder>	Shoulder swap	Mudar camera	Mover cámara
+<SelectThrowable>	Select throwable	Granada	Granada
+<SelectConsumable>	Select consumable	Consumível	Consumible
+<mouseSensitivity>	Mouse sensitivity	Sensibilidade do mouse	Sensiblidad del ratón
+<keyBinds>	Key Binds	Teclado	Configuración del teclado
+<chooseKeyFor>	Choose key for	Escolha a tecla para	Elegir una tecla
+<escToCancel>	Press ESC to cancel	Clique ESC para cancelar	Pulse Esc para cancelar
+<CameraMode>	Change camera mode	Mudar modo da câmera	Cambiar modo de cámara
+<Map>	Map	Mapa	Mapa
+<SelectHealing>	Select healing item	Item de cura	Curativo
+<Roll>	Roll	Rolar	Rodar
+<Butting>	Melee Attack	Ataque corpo a corpo	Ataque cuerpo a cuerpo
+			
+@Sound			
+<master>	Master	Master	Master
+<sfx>	SFX	Efeitos	Efectos
+<environment>	Ambience	Ambiente	Ambiente
+			
+@Difficulty			
+<easy>	Easy	Fácil	Fácil
+<hard>	Hard	Difícil	Difícil
+<medium>	Medium	Médio	Normal
+<insane>	Insane	Insano	Experto
+			
+@Loadout			
+<loadout>	Loadout	Equipamento	Equipamiento
+<primaryGun>	Primary gun	Arma principal	Arma Principal
+<secondaryGun>	Secondary gun	Arma secundária	Arma Secundaria
+<meleeWeapon>	Melee	Corpo a corpo	Cuerpo a Cuerpo
+<utility>	Utility	Utilitário	Utilidad
+<tool>	Tool	Ferramenta	Herramienta
+<resources>	Resources	Recursos	Recursos
+<skin>	Skin	Skin	Skin
+<locked>	Locked	Bloqueado	Bloqueado
+<nothing>	Nothing	Nada	Nada
+<unlockedLoadoutItem>	You unlocked a new loadout item:	Você destravou um novo item de loadout:	Nuevo equipamiento desbloqueado:
+<appearance>	Appearance	Aparência	Appearance
+<changingName>	Changing name	Mudando nome	Cambio de nombre
+			
+@Boss			
+<riotBoss>	Riot Zumbie	Zumbi de Assalto	Zumbie Policia
+<theAggressivePeacekeeper>	the aggressive peacekeeper	o pacificador agressivo	el pacifista agresivo
+<pressEscToSkip>	press ESC to skip	aperte ESC para pular	pulse ESC para saltear
+<queenBoss>	Queen Zumbie	Zumbi Rainha	Reina Zumbie
+<theQueenQueen>	the patient commander	a comandante paciente	el paciente comandante
+			
+@DisconnectMSG			
+<noDCMsg>	No reason received	Nenhum motivo recebido	No se recibió un motivo
+<dcBYUnknown>	Unknown reason	Motivo desconhecido pelo servidor	Motivo Desconocido
+<dcBYVersion>	Server is running a different version	Servidor usando versão diferente do jogo	El servidor es de una versión diferente del juego
+<dcBYPassword>	You're using the wrong password	Você usou a senha errada	Contraseña incorrecta
+<dcBYCapacity>	Server is full	Servidor lotado	Servidor lleno
+<dcBYKick>	You got kicked from the server	Você foi expulso do servidor	Fuiste expulsado del servidor
+			
+@Multiplayer			
+<port>	Port	Porta	Port
+<password>	Password	Senha	Contraseña
+<maxPlayers>	Maximum players	Máximo de jogadores	Cantidad máxima de jugadores
+<connectionSettings>	Connection settings	Configuração da conexão	Configuración de red
+<connect>	Connect	Conectar	Conectar
+<failedToConnect>	Failed to connect	Falha ao conectar	Error al conectar
+<couldntReachServer>	Could not reach specified server	Servidor especificado não pode ser alcançado	No se encontró el servidor especificado
+<connectionRefused>	Connection refused by server	Conexão recusada pelo servidor	Conexión rechazada por el servidor
+<lostConnectionWithServer>	Lost connection with server	Conexão perdida	Conexión perdida con el servidor
+<failureToCreateServer>	Failure to create server	Falha ao abrir servidor	Error al crear el servidor
+<invalidPort>	Failure creating the server: invalid port	Falha ao criar o servidor: porta inválida	Error al crear el servidor: port inválido
+<portAlreadyInUse>	Could not use the specified port	Não pode utilizar a porta escolhida	No se puede usar el port especificado
+<sureQuitServer>	Are you sure you want to quit the server?	Tem certeza de que quer sair do server?	¿Estás seguro de querer salir del servidor?
+<sureCloseServer>	Are you sure you want to close the server?	Tem certeza de que quer fechar o servidor?	¿Estás seguro de querer cerrar el servidor?
+<closeServer>	Close server	Fechar servidor	Cerrar Servidor
+<steamFriends>	Steam Friends	Amigos da Steam	Amigos de Steam
+<noFriendsHosting>	You have no friends hosting Zumbi Blocks 2 servers	Você não possui amigos hospedando servidor de Zumbi Blocks 2	No tienes amigos alojando un servidor Zumbi Blocks 2
+<join>	Join	Entrar	Ingresar
+			
+@DisconnectMSG			
+<serverIsFull>	Server is full!	O servidor está lotado!	¡El servidor está lleno!
+<DCreasonUnknown>	Disconnected for unknown reason!	Desconectado sem motivo!	¡Desconectado por razones desconocidas!
+<versionMismatch>	Your game version is different from the server!	A sua versão do jogo é diferente do servidor!	¡La versión de tu juego es diferente a la del servidor!
+<wrongPassword>	Wrong password!	Senha errada!	¡Contraseña incorrecta!
+<youveBeenKicked>	You've been kicked from the server!	Você foi expulso do servidor!	¡Te han expulsado del servidor!
+<clientTimeout>	Server is not responding!	Servidor demorou para responder!	¡El servidor no está respondiendo!
+<serverClosed>	No reason received!	Nenhum motivo recebido!	¡Ninguna razón recibida!
+			
+@Tutorial			
+<instructions>	Instructions	Instruções	Instrucciones
+<walkForwardWith>	Move forward with:	Ande para frente:	Moverse hacia adelante:
+<walkBackWith>	Move back with:	Ande para trás:	Moverse hacia atrás:
+<walkLeftWith>	Move left with:	Ande para a esquerda:	Moverse hacia la izquierda:
+<walkRightWith>	Move right with:	Ande para a direita:	Moverse hacia la derecha:
+<sprintWith>	Sprint by holding:	Corra segurando:	Correr mientras se sostiene:
+<jumpWith>	Jump by pressing:	Pule clicando:	Saltar:
+<aimWith>	Aim by holding:	Mire segurando:	Apuntar:
+<rollWith>	Roll by pressing:	Para rolar, clique:	Rodar:
+<LootItemsWith>	Loot items from the ground with:	Pegue items do chão com:	Agarrar objeto:
+<equipGunWith>	Equip a pistol in your inventory:	Equipe uma pistola no inventário:	Equipar una pistola del inventario:
+<selectYourGunWith>	Select the pistol by pressing:	Selecione a pistola com:	Seleccionar pistola:
+<reloadWith>	Reload guns with:	Recarregue armas clicando:	Recargar:
+<shootZombieWith>	Shoot a zombie with:	Atire nos zumbis clicando:	Disparar:
+<openMap>	Guns are marked as interest points on the map. Press:	Armas estão marcadas como pontos de interesse no mapa. Clique:	Las armas están marcadas como puntos de interés en el mapa:
+<findBoss>	Kill the zombie bosses threatening the island	Mate os zumbis chefes ameaçando a ilha	Mata a los zombis jefes que amenazan la isla
+<swapCameraModeTutorial>	Change camera mode with:	Mude o modo da câmera, com:	Cambiar el modo de cámara:
+<swapCameraShoulderTutorial>	Change camera side, in third person, with:	Mude o lado da camera, em terceira pessoa, com:	Cambia el lado de la cámara, en tercera persona:
+<punchAZombie>	Punch a zombie	De um soco no zumbi	Golpea a un zombi
+<dealMelee>	Deal a melee attack on a zombie with:	Utilize o ataque corpo a corpo:	Lanza un ataque cuerpo a cuerpo contra un zombi con:
+			
+@HUD			
+<inventory>	Inventory	Inventário	Inventario
+<equipment>	Equipment	Equipamento	Equipamiento
+<respawningIn>	Respawning in 	Renascendo em 	Reapareción en
+<door>	Door	Porta	Puerta
+			
+@Items			
+<pocketKnifeAK47>	Pocket knife AK47	Faca AK47	Cuchillo AK47
+<woodenClub>	Wooden club	Porrete de madeira	Palo de madera
+<pipe>	Pipe	Cano	Tubo
+<greaseGun>	M3A1 Grease gun	Submetralhadora M3A1	Subfusil M3A1
+<m1Carbine>	M1 Carbine	Carabina M1	Carabina M1
+<sodaCan>	Soda can	Lata de refri	Lata de refresco
+<candyBar>	Candy bar	Barra de doce	Barra de chocolate
+<coughSyrup>	Cough syrup	Xarope	Jarabe
+<waterBottle>	Water bottle	Garrafa de água	Botella de agua
+<pineapple>	Pineapple	Abacaxi	Piña
+<bandage>	Bandage	Bandagem	Vendaje
+<painkiller>	Painkiller	Analgésico	Analgésico
+<shotgunAmmo>	Shotgun ammo	Munição de 12	Munición de escopeta
+<sniperAmmo>	Sniper ammo	Munição de sniper	Munición de sniper
+<rifleAmmo>	Rifle ammo	Munição de rifle	Munición de rifle
+<pistolAmmo>	Pistol ammo	Munição de pistola	Munición de pistola
+<basicConsumables>	Common consumables	Consumíveis comuns	Consumibles básicos
+<deLisleCarbine>	De Lisle Carbine	Carabina De Lisle	Carabina De Lisle
+<commonConsumables>	Improved consumables	Consumíveis melhorados	Consumibles mejorados
+<shovel>	Shovel	Pá	Pala
+<cleaver>	Cleaver	Cutelo	Cuchilla de carnicero
+<riotShotgun>	Riot Shotgun	Espingarda de motim	Escopeta antidisturbios
+<stun_grenade>	Stun Grenade	Granada de atordoamento	Granada de aturdimiento
+<frag_grenade>	Frag Grenade	Granada de fragmentação	Granada de fragmentación
+<queenHammer>	Queen's Hammer	Martelo da Rainha	Martillo de la reina
+			
+@DescriptionTab			
+<fullAuto>	Full Auto	Automática	Automática
+<semiAuto>	Semi Auto	Semi Automática	Semiautomatica
+<damage>	Damage	Dano	Daño
+<fireRate>	Fire Rate	Cadência de tiro	Velocidad de fuego
+<maxAmmo>	Max Ammo	Munição	Municion
+<adsSpeed>	ADS Speed	Velocidade de ADS	Velocidad ADS
+<accuracy>	Accuracy	Precisão	Precisión
+<hsMulti>	HS Multiplier	Multiplicador de HS	Multiplicador HS
+<pierceDmg>	Pierce	Penetração	Perforación
+<crowdControl>	Crowd Control	Atordoante	Aturdir
+<bayonet>	Bayonet	Baioneta	Bayoneta
+<duckBill>	Duckbill	Duckbill	Duckbill
+<noise>	Noise	Barulho	Ruido
+<reloadTime>	Reload Time	Tempo de recarga	Tiempo de recarga
+<recoil>	Recoil	Recuo	Culatazo
+<damage1>	Damage 1	Dano 1	Daño 1
+<damage2>	Damage 2	Dano 2	Daño 2
+<reach>	Reach	Alcance	Alcance
+<stagger>	Stagger	Atordoamento	Tambalear
+			
+@Descriptions			
+<foodDesc>	(a full stomach gives you extra defense and health regen)	(uma barriga cheia te oferece defesa extra e regeneração de vida)	(una barriga llena te brinda defensa adicional y regeneración de la salud)
+<medDesc>	(medicine recovers your maximum health)	(remédio recupera sua vida máxima)	(la medicina recupera su máxima salud)
+<drinkDesc>	(hydration provides long lasting stamina)	(manter-se hidratado evita a fadiga)	(mantenerse hidratado previene el cansancio)
+<pocketKnifeAK47_DESC>	The knife that's perfect for combat. Why is it perfect? In addition to the adequate shape, it has a particularity which is its draw speed.	A faca perfeita pro combate. Por que ela é perfeita? Além do formato adequado, ela tem uma particularidade que é a rapidez no saque.	El cuchillo de combate perfecto. ¿Por qué es perfecta? Además del formato adecuado, tiene una particularidad que es la rapidez del servicio.
+<woodenClub_DESC>	Just a crude wooden club. Despite its simplicity, it's really good for breaking zumbie legs.	Apenas um porrete primitivo. Apesar da sua simplicidade ele é muito bom para quebrar pernas de zumbis.	Solo un club primitivo. A pesar de su sencillez, es muy bueno para romper las piernas de los zumbies.
+<welrod_DESC>	Probably the quietest gun you will find in this island. The welrod is an integrally supressed assassination pistol, which makes it super stealthy, and super illegal.	Provavelmente a arma mais silenciosa que você encontrará nesta ilha. A welrod é uma pistola de assassinato com silenciador integrado, o que a torna altamente furtiva, e altamente ilegal.	Probablemente el arma más silenciosa que encontrarás en esta isla. La barra de soldadura es una pistola homicida con silenciador integrado, lo que la hace muy sigilosa y muy ilegal.
+<type26_DESC>	A very old Japanese revolver, with low ammo capacity. Not the ideal handgun, but still have some use cases.	Um antigo revólver japonês, com baixa capacidade de munição. Não é o revólver ideal mas ainda pode ser útil, na falta de algo melhor.	Un viejo revólver japonés, con poca capacidad de munición. No es el revólver ideal, pero aún puede ser útil, a falta de algo mejor.
+<greaseGun_DESC>	A cheap and simple (and ugly) submachine gun. The perfect fit for cheap pistol ammo. Any World War 2 enthusiast will likely own this submachine gun.	Uma sub-metralhadora barata e simples (e feia). Perfeita para usar com munição barata de pistola. Qualquer entusiasta da segunda guerra deve ter uma dessas em sua coleção.	Un subfuse barato y simple (y feo). Perfecto para usar con munición de pistola barata. Cualquier entusiasta de la Segunda Guerra Mundial debería tener uno de estos en su colección.
+<m1Carbine_DESC>	An effective carbine but with reduced accuracy when compared to a full length rifle. If your grandad fought in World War 2 he might still own one of these.	Uma carabina efetiva mas com precisão reduzida, quando comparada a um rifle de combate. Se seu avô lutou na segunda guerra ele certamente ainda tem uma dessas.	Una carabina eficaz pero con una precisión reducida en comparación con un rifle de combate. Si su abuelo luchó en la Segunda Guerra Mundial, ciertamente todavía tiene uno de esos.
+<svt_40_DESC>	Production of this russian battle rifle started in 1940. It's old but, if kept in good condition, it is very powerful and can pierce lightly armored targets.	A produção deste rifle de batalha russo começou em 1940. É antigo, mas se mantido em boas condições, é muito poderoso e pode penetrar blindagens leves.	La producción de este rifle de batalla ruso comenzó en 1940. Es antiguo, pero si se mantiene en buenas condiciones, es muy potente y puede penetrar armaduras ligeras.
+<cobray_DESC>	The worst shotgun ever made. Truly awful. Only holds one shot. I guess gun collectors will collect anything they can get their hands on, even this.	A pior escopeta já feita. Muito horrível. Só carrega 1 tiro por vez. Aparentemente colecionadores de armas irão colecionar qualquer coisa que eles puderem, até isto.	La peor escopeta jamás fabricada. Muy horrible. Cargue solo 1 disparo a la vez. Aparentemente, los coleccionistas de armas recolectarán todo lo que puedan, incluso esto.
+<sodaCan_DESC>	Unhealthy sugary beverage.	Refrigerante açucarado nem um pouco saudável.	Refresco azucarado poco saludable.
+<candyBar_DESC>	Tasty but way too small.	Gostosinho mas pequeno.	Sabroso pero pequeño.
+<coughSyrup_DESC>	Good for curing coughs but not much else.	Bom contra tosse, mas nada muito além disso.	Bueno contra la tos, pero nada más que eso.
+<shuriken_DESC>	Throwing ninja star. Contrary to popular belief this long range weapon is not very lethal.	Estrela ninja. Contrário à crença popular esta arma de longa distância não é muito letal.	Estrella ninja. Contrariamente a la creencia popular, esta arma a distancia no es muy letal.
+<pistolAmmo_DESC>	Small caliber ammo. Very cheap and commonly used by civilians.	Munição de calibre pequeno. Barato e utilizado comumente por civis.	Munición de pequeño calibre. Barato y comúnmente utilizado por civiles.
+<rifleAmmo_DESC>	Intermediary ammo. Used on rifles and carbines for hunting, recreation and sports.	Munição intermediária. Usada em fuzis e carabinas para caça, recreação e tiro esportivo.	Munición intermedia. Utilizado en rifles y carabinas para caza, recreación y tiro deportivo.
+<sniperAmmo_DESC>	High power ammo. High quality but expensive. Not very commonly imported.	Munição poderosa de alto calibre. Têm alta qualidade porém custa caro, então não é comumente importada para cá.	Potente munición de alto calibre. Tienen alta calidad pero son caros, por lo que no se suele importar aquí.
+<shotgunAmmo_DESC>	A 12 gauge shotgun ammo. Unfortunately shotguns are not very popular here.	Munição de escopeta. Infelizmente escopetas não são muito populares entre os moradores daqui.	Munición de escopeta. Desafortunadamente, las escopetas no son muy populares entre los lugareños aquí.
+<riotShotgun_DESC>	Found in the hands of a zumbie capable of manipulating complex weaponry. Very weird. Uses a special type of oversized shotgun ammo you cant find anywhere.	Curiosamente encontrado nas mãos de um zumbi de assalto capaz de manipular armas complexas. Utiliza um tipo especial de munição que ninguém sabe onde encontrar.	Curiosamente se encuentra en manos de un zumbie de asalto capaz de manejar armas complejas. Utiliza un tipo especial de munición que nadie sabe dónde encontrar.
+<pineapple_DESC>	The perfect addition to your pizza.	A adição perfeita a sua pizza.	El complemento perfecto para tu pizza.
+<waterBottle_DESC>	A bottle of pure mineral water.	Uma garrafa de água mineral.	Una botella de agua mineral.
+<bandage_DESC>	Pressure bandages can be used to slow bleeding or reduce swelling.	Bandagens podem ser usadas para reduzir sangramento ou reduzir inchaço.	Se pueden usar vendajes para reducir el sangrado o reducir la hinchazón.
+<shovel_DESC>	A shovel with a long handle. Not very strong but can keep zumbies at a distance.	Uma pá com cabo longo. Não é muito forte mas pode manter zumbis longe.	Una pala con mango largo. No es muy fuerte pero puede mantener alejados a los zumbis.
+<pipe_DESC>	This type of hollow metal pipe can be found in pretty much any scrap yard, and makes for a quick and handy weapon against zumbies.	Este tipo de cano de metal pode ser encontrado em qualquer ferro velho, mas é uma arma ágil e prática contra zumbis.	Este tipo de barril de metal se puede encontrar en cualquier depósito de chatarra, pero es un arma ágil y práctica contra los zumbis.
+<cleaver_DESC>	While commonly used just for culinary ends, this cleaver can even be used as a long range weapon, if you're a skilled enough fighter.	Embora comumente usado apenas para fins culinários, este cutelo pode até ser usado como uma arma de longo alcance, se você for um lutador habilidoso.	Aunque se usa comúnmente solo para cocinar, esta cuchilla incluso se puede usar como un arma a distancia si eres un luchador hábil.
+<luger_DESC>	Austrian semi-automatic pistol designed by Georg Luger in 1898.	Pistola semi-automática austríaca projetada por Georg Luger em 1898.	Pistola austriaca semiautomática diseñada por Georg Luger en 1898.
+<c96_DESC>	Full auto version of the C96 Mauser pistol. Very high rate of fire, but very uncontrollable. You will waste a bunch of ammo with this gun.	Versão automática da pistola C96 Mauser. Possui uma cadência de tiro alta, porém é muito incontrolável. Você irá desperdiçar muita munição com essa arma.	Versión automática de la pistola C96 Mauser. Tiene una alta cadencia de tiro, pero es muy incontrolable. Gastarás mucha munición en esta arma.
+<ppsh_DESC>	The PPSh-41 is a soviet sub-machine gun. Gun onwners love this gun, for it's high rate of fire and high magazine capacity. It's very fun to shoot.	O PPSh-41 é uma sub-metralhadora soviética. Donos de armas a amam, pois atira muito rápido e tem alta capacidade de munição. É muito divertido de usar.	El PPSh-41 es un subfusil soviético. A los propietarios de armas les encanta porque dispara muy rápido y tiene una gran capacidad de munición. Es muy divertido de usar.
+<beretta38_DESC>	When talking about world war 2 weapons the Beretta 38 is not a very commonly mentioned submachine gun, but at the time it was one of the best of its type. 	A Beretta 38 não é uma sub-metralhadora muito mencionada quando se fala de armas da segunda guerra, mas era uma das melhores armas da sua categoria.	La Beretta 38 no es un subfusil muy mencionado cuando se trata de armas de la Segunda Guerra Mundial, pero fue una de las mejores armas de su clase.
+<deLisle_DESC>	Britain's silenced carbine, uses pistol ammo, and it's very, very quiet. The best weapon for hunting zumbies in a stealthy and cheap manner.	Esta é a carabina silenciada britânica. Usa munição de pistola, e é muito silenciosa. A melhor arma para caçar zumbis silenciosamente e sem gastar muita bala.	Esta es la carabina británica con silenciador. Usa munición de pistola y es muy silencioso. La mejor arma para cazar zumbis de forma silenciosa y sin gastar demasiada bala.
+<stg_DESC>	This was the first assault rifle, developed by Germany during World War 2. The assault rifle end up becoming the standard for infantry rifles world wide.	Este foi o primeiro rifle de assalto, desenvolvido pela Alemanha durante a segunda guerra mundial. Rifles de assalto se tornam o padrão para rifles de infantaria ao redor do mundo.	Este fue el primer rifle de asalto desarrollado por Alemania durante la Segunda Guerra Mundial. Los rifles de asalto se han convertido en el estándar de los rifles de infantería en todo el mundo.
+<ultimax_DESC>	This LMG features a constant recoil system. It's recoil is high, but very controlable. It also has a very large magazine, so you wont have to reload very often.	Esta metralhadora possui um sistema de recuo constante. Possui recuo alto, mas muito controlável. Também possui um carregador com bastante munição.	Esta ametralladora tiene un sistema de retroceso constante. Tiene alto retroceso, pero muy controlable. También tiene una revista con mucha munición.
+<enfield_DESC>	Bolt action, british precision rifle. Very accurate and very powerful. Too bad it doesn't have a scope on it.	Rifle de precisão britânico. Muito preciso e poderoso. Que pena que não tem uma mira telescópica nele.	Rifle de francotirador británico. Muy preciso y poderoso. Lástima que no tenga una mira telescópica.
+<garand_DESC>	The M1 Garand was the standard battle rifle for the US army during World War 2. Features a semi automatic action, giving it superior fire power over bolt action ones.	O M1 Garand foi o rifle de batalha padrão do exército americano durante a segunda guerra mundial. Por ser semi-automático ele apresenta maior poder de fogo comparado a rifles de batalaha comuns.	El M1 Garand fue el rifle de batalla estándar del Ejército de USA durante la Segunda Guerra Mundial. Como es semiautomático, tiene una mayor potencia de fuego en comparación con los rifles de batalla comunes.
+<trenchShotgun_DESC>	The winchester model 1897 comes equipped with a 6 round tube magazine and with a long bayonet.	A escopeta Winchester 1897 vem equipado com um tubo de 6 munições e uma longa baioneta acoplada.	La escopeta Winchester 1897 viene equipada con un cañón de 6 cartuchos y una bayoneta larga adjunta.
+<stun_DESC>	Explosive grenade that knocks zumbies down for several seconds.	Granada explosiva que derruba zumbis por diversos segundos.	Granada explosiva que derriba a los zumbies durante varios segundos.
+<frag_DESC>	Explosive grenade that can kill zumbies instantly.	Granada explosiva que pode matar zumbis instantaneamente.	Granada explosiva que puede matar zumbis al instante.
+<queenHammer_DESC>	A banner of leadership, belonging to the one who commands zumbie workers and soldiers alike.	Uma bandeira de liderança, pertencente aquela que comanda zumbis, ambos operários ou guerreiros.	Una bandera de liderazgo, perteneciente a quien comanda a los zumbis, ya sean trabajadores o guerreros.
